@@ -1,0 +1,20 @@
+To use the keywords.txt file, simply edit it and add one keyword or phrase per line these are he can the accounts or services you want to filter (e.g., Netflix, Disney+, etc.).
+
+Example content for keywords.txt:
+Netflix
+Disney+
+HBO Max
+Prime Video
+Spotify
+GloboPlay
+Star+
+Paramount+
+Apple TV+
+Crunchyroll
+Deezer
+YouTube Premium
+Twitch
+OnlyFans
+Bet365
+
+(Delete the text that's already in this .txt file and include only what you want to filter.)
