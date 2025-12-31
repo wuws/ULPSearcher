@@ -16,4 +16,4 @@ ULPSearcher is a Python command-line tool designed to quickly filter large combo
 - Run the tool using the command below:
 
 ```bash
-py ULPSearcher.py
+py ULPSearch.py
