@@ -1,1 +1,1 @@
-Drop your combo files here !!
+Keep your combined files here in this folder !! (Delete this file before placing the combo file.)
